@@ -1,2 +1,2 @@
-# sqlite-template-cpp
-A C++ sqlite library using constraints and concepts.
+# sqltpp
+A C++ sql library using constraints and concepts.
